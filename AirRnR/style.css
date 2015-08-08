@@ -1,0 +1,257 @@
+/*Navbar*/
+.navbar {
+	margin-bottom: -55px;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/*Jumbotron*/
+.jumbotron {
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 200px;
+	background-image: url("../images/retreat_header.jpeg");
+	background-repeat: no-repeat;
+	width: 100%; 
+	height: auto;
+}
+
+.jumbotron h1{
+	padding-top: 200px;
+	font-size: 80px;
+	color: white;
+}
+
+.jumbotron p{
+	color: white;
+	font-size: 30px;
+}
+
+.btn-primary {
+	background-color: #068E7F;
+	border: transparent;
+}
+
+.btn-primary:hover {
+	background-color: #3BDCCA;
+	border: transparent;
+}
+
+/*Search Bar*/
+.search-bar {
+	background-color: #345E73;
+	opacity: 0.85;
+	margin-top: -149px;
+	padding-bottom: 30px;
+}
+
+.form-search {
+	padding-top: 40px;
+}
+
+.btn-default{
+	color: #989898;
+}
+
+.btn-default:hover{
+	background-color: #fdd017;
+}
+
+/*Featured Places*/
+.featured-places {
+	padding-top: 30px;
+}
+
+.featured-places h1, h4{
+	text-align: center;
+}
+
+.thumbnail {
+	border: #fff;
+}
+
+.thumbnail h3, h5 {
+	text-align: center;
+}
+
+.thumbnail h3 {
+	color: #939393;
+}
+
+.thumbnail h5 {
+	color: #345E73;
+}
+
+.badge {
+	background-color: #345E73;
+}
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  text-align: center;
+}
+
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+
+.rating > span:hover,
+.rating > span:hover ~ span {
+  color: transparent;
+}
+
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+	content: "\2605";
+	position: absolute;
+	left: 0; 
+	color: #fdd017;
+}
+
+.carousel-inner {
+	max-height: 600px;
+}
+
+/*Team*/
+.team {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.team h1, h4{
+	text-align: center;
+}
+
+.team h4 {
+	padding-bottom: 20px;
+}
+
+.enlarge-onhover {
+	width: 235;
+  height: 156px;
+}
+
+.enlarge-onhover:hover {
+     width: 255px;
+     height: 175px;
+}
+
+.name {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color: #345E73;
+	padding-top: 5px;
+}
+
+.duty {
+	font-size: 16px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.fa-linkedin {
+	color: #fdd017;
+}
+
+/*Footer*/
+#push,
+#footer {
+	padding-top: 60px;
+	padding-bottom: 50px;
+	background-color: #353535;
+}
+
+address {
+	color: white;
+}
+
+address a{
+	color: white;
+}
+
+address a:hover{
+	color: #345E73;
+}
+
+#footer h5{
+	color: white;
+	text-align: left;
+}
+
+.list-layout {
+	padding-left: 0;
+	list-style: none;
+	color: white;
+}
+
+.list-layout a{
+	color: white;
+}
+
+.list-layout a:hover{
+	color: #345E73;
+}
+
+hr {
+	  border: 0;
+    border-bottom: 1px solid #DCDCDC;
+    clear: both;
+    display: block;
+    height: 0;
+    margin: -5 auto 50px auto;
+    padding-top: 50px;
+    max-width: 220px;
+    width: 100%;
+}
+
+.join-us h3{
+	color: white;
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: -20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
